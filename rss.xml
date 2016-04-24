@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[qixie]]></title>
         <description><![CDATA[qixie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://qi.xie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 04:07:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 04:11:29 GMT</lastBuildDate>
+        <atom:link href="http://qi.xie.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WeChat: Frenemy of Chinese Activists?]]></title>
+            <description><![CDATA[<article><h1>WeChat: Frenemy of Chinese Activists?</h1><p>WeChat is a social media platform that boasts more than 650 million active monthly users, most of them Chinese. It played a crucial role in the Chinese American community last month when protests across the country were mobilized on WeChat to demand justice for NYPD officer Peter Liang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30cd27ddafbce21c05bb5323d1d173e7d1f3dbb0.jpg"></article>]]></description>
+            <link>http://thediplomat.com/2016/03/wechat-frenemy-of-chinese-activists/</link>
+            <guid isPermaLink="false">6cbd646a-1f61-4a1f-9003-9a33672db000</guid>
+            <pubDate>Sun, 24 Apr 2016 04:11:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Persistence of Stereotyping in Weber’s Comparative Method</p>]]></description>
-            <link>undefinedthe-persistence-of-stereotyping-in-webers-comparative-metho/index.html</link>
+            <link>http://qi.xie.com/the-persistence-of-stereotyping-in-webers-comparative-metho/index.html</link>
             <guid isPermaLink="false">48837f0b-ac2e-4d78-aca7-d57f79fc6e2b</guid>
             <pubDate>Sun, 24 Apr 2016 04:07:41 GMT</pubDate>
         </item>
