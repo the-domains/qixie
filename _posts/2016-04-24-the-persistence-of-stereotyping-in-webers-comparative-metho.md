@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Persistence of Stereotyping in Weber’s Comparative Method
-datePublished: '2016-04-24T04:07:41.900Z'
-dateModified: '2016-04-24T03:48:34.205Z'
+datePublished: '2016-04-24T04:17:34.389Z'
+dateModified: '2016-04-24T04:10:58.313Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-the-persistence-of-stereotyping-in-webers-comparative-metho.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-the-persistence-of-stereotyping-in-webers-comparative-metho.md
-published: true
 url: the-persistence-of-stereotyping-in-webers-comparative-metho/index.html
 _type: Article
 
